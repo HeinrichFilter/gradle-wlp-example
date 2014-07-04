@@ -8,4 +8,4 @@ Note: This is a repo used as an example for an issue logged at the Gradle and IB
 5. Checkout this project.
 6. Run `gradle eclipse` from checkout directory
 7. Import this project into eclipse
-8. Deply ptoject to WLP server.
+8. Deply project to WLP server.
